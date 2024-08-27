@@ -1,0 +1,30 @@
+* {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body {
+    background-color: rgb(243, 153, 120);
+}
+
+body h1 {
+    text-align: center;
+    color: beige;
+}
+
+body h2 {
+    text-align: center;
+    color: rgb(160, 250, 253);
+}
+
+.link-container {
+    text-align: center;
+}
+
+.link-container a {
+    color: rgb(3, 95, 107);
+    font-size: large;
+}
+
+li, ul {
+    text-align: center;
+}
