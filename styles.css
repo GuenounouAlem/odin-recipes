@@ -16,15 +16,29 @@ body h2 {
     color: rgb(160, 250, 253);
 }
 
+p {
+    text-align: center;
+}
+
+img {
+    margin-left: 30%;
+}
+
 .link-container {
     text-align: center;
 }
 
 .link-container a {
     color: rgb(3, 95, 107);
+    display: inline-block;
+    width: 100px;
+    margin: 2em;
+    padding: 1em;
+    background-color: rgb(235, 174, 43);
+    border: 2px solid cyan;
     font-size: large;
 }
 
-li, ul {
-    text-align: center;
+ul, ol {
+    margin-left: 40%;
 }
